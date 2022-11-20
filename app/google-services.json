@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468455911917",
+    "project_id": "fir-agym",
+    "storage_bucket": "fir-agym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468455911917:android:1bfe25bd36627ec2a177e4",
+        "android_client_info": {
+          "package_name": "com.f55121076_agym_mahaputra.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468455911917-ob4qdoda4ab0lot7866nbqpqg0ntmpdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLz0Qn61B_bUWod5K6pcvev59GxEciWtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468455911917-ob4qdoda4ab0lot7866nbqpqg0ntmpdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
